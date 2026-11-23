@@ -14,6 +14,7 @@ GTA 6 is set in the fictional state of **Leonida**, Rockstar's take on Florida, 
 
 - [MapGenie: Official Grand Theft Auto 6 Map](https://mapgenie.io/grand-theft-auto-6): filter collectibles, activities and points of interest
 - [IGN GTA 6 Guide](https://www.ign.com/wikis/gta-6): map and location pages
+- [Vice Keys Leonida Atlas](https://getvicekeys.com/atlas): Search named community landmarks with approximate positions and open related location walkthroughs.
 
 ## How big is the GTA 6 map?
 
